@@ -3,7 +3,7 @@
 [phases.setup]
 # 在这里列出需要通过 Nix 安装的系统级依赖包
 # 我们需要添加 ffmpeg
-nixPkgs = ["ffmpeg"]
+nixPkgs = ["ffmpeg", "python3", "pip"]
 
 # 如果你的 requirements.txt 正常工作，通常不需要在这里指定 python 等
 # Nixpacks 会自动处理 Python 环境和 pip install

@@ -1,3 +1,0 @@
-discord.py>=2.3.0  # 使用较新版本以获得最新功能和修复
-PyNaCl             # 语音加密所需
-python-dotenv      # 用于本地加载 .env 文件

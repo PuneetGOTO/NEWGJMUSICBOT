@@ -1,0 +1,7 @@
+{"level":30,"time":1745842132339,"pid":2700,"hostname":"DESKTOP-N2167SR","msg":"Validating config file and environment variables"}
+{"level":40,"time":1745842132339,"pid":2700,"hostname":"DESKTOP-N2167SR","msg":"config.js: SUPPORT_SERVER is not provided"}
+{"level":40,"time":1745842132340,"pid":2700,"hostname":"DESKTOP-N2167SR","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1745842132340,"pid":2700,"hostname":"DESKTOP-N2167SR","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1745842132400,"pid":2700,"hostname":"DESKTOP-N2167SR","msg":"Loading commands..."}
+{"level":30,"time":1745842607696,"pid":28032,"hostname":"DESKTOP-N2167SR","msg":"Validating config file and environment variables"}
+{"level":50,"time":1745842607697,"pid":28032,"hostname":"DESKTOP-N2167SR","msg":"env: BOT_TOKEN cannot be empty"}
